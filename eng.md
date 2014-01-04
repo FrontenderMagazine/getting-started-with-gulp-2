@@ -1,5 +1,4 @@
-**[Gulp][1]** is a streaming build system. You can read more about it **
-[here][2]**.
+**[Gulp][1]** is a streaming build system. You can read more about it **[here][2]**.
 
 ### Getting Started
 
@@ -132,8 +131,7 @@ running gulp in the cli should produce output closer to this.
 
 ### Reference
 
-If you dont find the required gulp plugin ,you could also write your **[own][5]
-**.
+If you dont find the required gulp plugin ,you could also write your **[own][5]**.
 
 [1]: https://github.com/wearefractal/gulp
 [2]: https://github.com/wearefractal/gulp/wiki
