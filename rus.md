@@ -1,7 +1,7 @@
 # Простое и удобное gulp‑окружение для разработки html5‑игры меньше, чем за 5 минут
 
 **[Gulp][1]** [/gʌlp/ /галп/] — система потоковой сборки, подробнее о ней можно
-прочесть в **[вики][2]** проекта.
+прочесть в <del>**[вики][2]**</del> [документации][6] проекта.
 
 
 
@@ -148,4 +148,5 @@
 [2]: https://github.com/wearefractal/gulp/wiki
 [3]: https://npmjs.org/browse/keyword/gulpplugin
 [4]: img/KjSSZ.jpg
-[5]: https://github.com/wearefractal/gulp/wiki/Writing-a-gulp-plugin
+[5]: https://github.com/gulpjs/gulp/tree/master/docs/writing-a-plugin
+[6]: https://github.com/gulpjs/gulp/tree/master/docs
