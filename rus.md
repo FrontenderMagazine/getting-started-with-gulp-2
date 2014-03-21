@@ -15,7 +15,7 @@
 Для нашего примера понадобятся следующие плагины: *gulp-browserify*, *gulp-livereload*, 
 *gulp-concat* и *gulp-styl*.
 
-Выполните установку плагинов следующей коммандой:
+Выполните установку плагинов следующей командой:
 
     npm install --save gulp-browserify gulp-concat gulp-styl gulp-livereload tiny-lr
 
